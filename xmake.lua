@@ -1,4 +1,4 @@
-set_project("demo")
+set_project("Demo")
 set_version("0.0.1", {build = "%Y%m%d%H%M"})
 
 set_xmakever("2.6.1")
