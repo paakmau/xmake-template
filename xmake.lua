@@ -13,3 +13,5 @@ target("Demo")
     add_files("src/*.cpp")
     add_includedirs("include", { public = true })
     add_headerfiles("include/(Demo/*.h)")
+
+includes("examples")
