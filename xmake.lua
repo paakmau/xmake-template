@@ -15,4 +15,5 @@ target("Demo")
     add_headerfiles("include/(Demo/*.h)")
 
 includes("tests")
+includes("benches")
 includes("examples")
