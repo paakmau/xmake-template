@@ -1,6 +1,12 @@
 ### Xmake cache
 .xmake/
 build/
+compile_commands.json
+
+
+### Clangd cache
+
+.cache
 
 
 ### Windows
